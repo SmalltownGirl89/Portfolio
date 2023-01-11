@@ -41,3 +41,5 @@ I am an aspiring software tester. I'm currently focusing on finding my firs job 
 - Harry Potter Universe
 - Classic Disney's comics (Carl Barks, Don Rosa)
 - Rock & metal music
+
+Contact [Linkedin]:https://www.linkedin.com/in/ana-lisiecka/
